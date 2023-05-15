@@ -14,7 +14,7 @@
 ### Links
 
 
-`<link>` : <https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox>
+`<link>` : <https://rodrigodom01.github.io/desafio_flexbox/>
 
 `<link>` : <https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox>
 
