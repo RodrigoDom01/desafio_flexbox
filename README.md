@@ -14,10 +14,12 @@
 ### Links
 
 
+`<link>` : <https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox>
+
+`<link>` : <https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Flexbox>
 
 `<link>` : <https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos>
 
-`<link>` : <https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos>
 
 
 ### Images
